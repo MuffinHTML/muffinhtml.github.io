@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "name": "Muffin HTML",
+  "creator": "Muffin5671",
+  "sprites": [
+    {"path": "editorMenu.sprite3"}
+  ],
+  "beta": true
+}
