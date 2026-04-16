@@ -3,7 +3,7 @@
   "name": "Muffin HTML",
   "creator": "Muffin5671",
   "files": [
-    {"path": "xmlManager.sprite3"}
+    {"path": "xmlManager.sprite3"},
     {"path": "editorMenu.sprite3"},
     {"path": "loadingScreen.sprite3"}
   ],
